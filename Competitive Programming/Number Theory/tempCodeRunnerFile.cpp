@@ -1,0 +1,1 @@
+Triplet ans=get_extended_eucleid(16,10);
