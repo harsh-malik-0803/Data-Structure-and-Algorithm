@@ -1,0 +1,1 @@
+link gfg = https://www.geeksforgeeks.org/minimum-possible-sum-of-digits-in-a-positive-multiple-of-n/
